@@ -1,11 +1,6 @@
-# TVBox Desktop
+# Video Desktop
 
-[![Release](https://img.shields.io/github/v/release/hgtuj5688/tvbox-desktop?label=%E4%B8%8B%E8%BD%BD&color=2563EB)](https://github.com/hgtuj5688/tvbox-desktop/releases/latest)
-[![License](https://img.shields.io/github/license/hgtuj5688/tvbox-desktop?color=16A34A)](LICENSE)
-
-纯白极简的 Windows 影视聚合客户端。吃安卓 TVBox 的配置订阅格式，用桌面端更好用的交互方式呈现。
-
-![首页](shots/home.png)
+基于 TVBOX Desktop （https://github.com/hgtuj5688/tvbox-desktop/）二次开发
 
 | | |
 |---|---|
@@ -25,10 +20,6 @@
 
 去 **[Releases](https://github.com/hgtuj5688/tvbox-desktop/releases/latest)** 下载，两个文件选一个：
 
-| 文件 | 用途 |
-|---|---|
-| [`TVBox.Desktop-0.1.0-x64.exe`](https://github.com/hgtuj5688/tvbox-desktop/releases/download/v0.1.0/TVBox.Desktop-0.1.0-x64.exe) | **安装版（推荐）**。双击一路下一步，会建开始菜单与桌面快捷方式，可在「应用和功能」里卸载 |
-| [`TVBox.Desktop-0.1.0-x64.zip`](https://github.com/hgtuj5688/tvbox-desktop/releases/download/v0.1.0/TVBox.Desktop-0.1.0-x64.zip) | **免安装版**。解压到任意目录，直接跑里面的 `TVBox Desktop.exe` |
 
 > 仓库里的文件名带空格（`TVBox Desktop-0.1.0-x64.exe`），GitHub 上传时会把空格换成点，下载下来的是上面表格里那个名字，内容一样。
 
