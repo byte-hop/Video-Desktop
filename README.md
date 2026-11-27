@@ -31,7 +31,7 @@ https://github.com/byte-hop/Video-Desktop/blob/main/Snipaste_2026-11-27_10-25-48
 
 ## 下载
 
-在下方 Assets 里取 影视窗-0.1.26-编译版-无影视源.zip（约 168 MB），解压即用，免安装。
+在下方 Assets 里取 影视窗-0.1.26.zip（约 168 MB），解压即用，免安装。
 
 ## 安装与首次启动
 
