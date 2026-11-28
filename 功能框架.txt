@@ -732,8 +732,8 @@ data/
   parses.json       手动添加的解析接口
   downloads.json    下载任务与断点档案
   disclaimer.json   首启声明同意状态
-  picks.json        精选池快照（一周一抓，约 230 KB）
-  picks-posters/    精选池海报缓存
+  精选快照          精选池抓取结果（一周一份，约 230 KB）
+  精选海报目录      精选池海报缓存（避免反复打图床）
   poster-cache/     海报图缓存（按上限自动清理）
   home-cache.json   首页内容位快照（10 分钟）
   browse-cache.json 分类浏览快照
