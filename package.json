@@ -1,6 +1,6 @@
 {
   "name": "tvbox-desktop",
-  "version": "0.1.29",
+  "version": "0.1.30",
   "description": "TVBox Desktop - 纯白极简的 Windows 影视聚合客户端",
   "main": "./out/main/index.js",
   "license": "MIT",
