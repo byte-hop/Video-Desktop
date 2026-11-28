@@ -1,4 +1,6 @@
 影视窗
+<img width="1281" height="906" alt="image" src="https://github.com/user-attachments/assets/d41b6433-37db-4652-b894-1831f23dcad4" />
+
 
 极简的 Windows 影视聚合播放器。吃安卓 TVBox 的配置订阅格式，用桌面端更好用的交互方式呈现。
 
