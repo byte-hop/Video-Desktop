@@ -2,10 +2,10 @@
 <img width="1281" height="906" alt="image" src="https://github.com/user-attachments/assets/d41b6433-37db-4652-b894-1831f23dcad4" />
 
 
-极简的 Windows 影视聚合播放器。吃安卓 TVBox 的配置订阅格式，用桌面端更好用的交互方式呈现。
+极简的 Windows 影视聚合播放器（基于TVBOX Desktop修改）,适配安卓 TVBox 的配置订阅格式，用桌面端更好用的交互方式呈现。
 
 版本
-0.1.29（package.json / package-lock.json 三处版本号同源）
+0.1.30（package.json / package-lock.json 三处版本号同源）
 技术栈
 Electron 44 + React 19 + TypeScript + Vite + zustand，ArtPlayer + hls.js
 形态
@@ -19,7 +19,7 @@ npm run typecheck / npm run build 干净；npm run selftest 端到端自检覆�
 逐版本变更与每一轮修补记录：见 CHANGELOG.md
 
 下载安装
-去 Releases 下载 Assets 里的 影视窗-<版本>-编译版-无影视源.zip（约 168 MB）：
+去 Releases 下载 Assets 里的 影视窗-<版本>-编译版.zip（约 168 MB）：
 解压到任意目录（别放进 C:\Program Files 这类要管理员权限的位置，否则 data\ 写不进去）。
 双击 影视窗.exe，免安装，配置与缓存就落在同级的 data\。
 程序没有代码签名证书，首次运行 Windows SmartScreen 会拦一下：点「更多信息」→「仍要运行」。这不是病毒提示，只是没买证书。
